@@ -1,12 +1,12 @@
-🚀Projem, kullanıcıların bir otel üzerinde online olarak rezervasyon yapabildiği, admin tarafında bu rezervasyonların karşılandığı, kullanıcının rezervasyonlarının onaylanması durumunda kendisine mail gönderildiği, kullanıcının arama kriterlerine göre rezervasyon yapabildiği bir akış üzerine kuruludur.
-🚀AspNet Core Api üzerinden Swagger ve Postman kullanarak testlerimi gerçekleştirdim.
-🚀Mimari olarak N Tier Architecture kullandım. Projede tek Solution altında 6 tane katman yer aldı.
-🚀Veri tabanı olarak MSSQL kullandım.
-🚀Proje güvenliği için Identity kullandım. Böylece yetkisiz rol erişimlerinin önüne geçmiş oldum.
-🚀Ek olarak projenin belli bir bölümünden sonra farklı api kaynaklarını tüketmeye başladım. Bunlar arasında en yoğun kullandığım Rapid Api oldu. 
-🚀Rapid Api üzerinden BookingCom apisini kullanarak kendi panelimiz üzerinden parametre girerek Booking'de otel verisi sonuçlarını kendi AspNet Core projeme taşıdım.
-🚀Yine Rapid Api üzerinden online otel rezervasyonlarında ihtiyaç olacağını düşündüğümüz "Uçuş, Döviz ve Hava Durumu" verilerini api olarak çekip consume ettim.
-🚀Finale gelirken Rapid Api üzerinden istediğim kullanıcıya ait Linkedin, Instagram, Twitter ve Facebook gibi platformlardan takipçi ve takip edilen kişi sayılarını çektim.
+Projem, kullanıcıların bir otel üzerinde online olarak rezervasyon yapabildiği, admin tarafında bu rezervasyonların karşılandığı, kullanıcının rezervasyonlarının onaylanması durumunda kendisine mail gönderildiği, kullanıcının arama kriterlerine göre rezervasyon yapabildiği bir akış üzerine kuruludur.
+AspNet Core Api üzerinden Swagger ve Postman kullanarak testlerimi gerçekleştirdim.
+Mimari olarak N Tier Architecture kullandım. Projede tek Solution altında 6 tane katman yer aldı. Entity Framework'ü kullandım.
+Veri tabanı olarak MSSQL kullandım.
+Proje güvenliği için Identity kullandım. Böylece yetkisiz rol erişimlerinin önüne geçmiş oldum.
+Ek olarak projenin belli bir bölümünden sonra farklı api kaynaklarını tüketmeye başladım. Bunlar arasında en yoğun kullandığım Rapid Api oldu. 
+Rapid Api üzerinden BookingCom apisini kullanarak kendi panelimiz üzerinden parametre girerek Booking'de otel verisi sonuçlarını kendi AspNet Core projeme taşıdım.
+Yine Rapid Api üzerinden online otel rezervasyonlarında ihtiyaç olacağını düşündüğümüz "Uçuş, Döviz ve Hava Durumu" verilerini api olarak çekip consume ettim.
+Finale gelirken Rapid Api üzerinden istediğim kullanıcıya ait Linkedin, Instagram, Twitter ve Facebook gibi platformlardan takipçi ve takip edilen kişi sayılarını çektim.
 
 ![otel1](https://github.com/mertcansaltas/Otel-Rezervasyon-Projesi/assets/150259943/2bb35107-3f2d-4c8c-a96c-4f82793b6328)
 
