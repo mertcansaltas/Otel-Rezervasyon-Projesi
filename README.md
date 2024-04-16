@@ -42,5 +42,5 @@ Finale gelirken Rapid Api üzerinden istediğim kullanıcıya ait Linkedin, Inst
 
 ![otel18](https://github.com/mertcansaltas/Otel-Rezervasyon-Projesi/assets/150259943/218c4b52-0ce2-4820-acf6-1e94206e2f17)
 
-
+![dashboard](https://github.com/mertcansaltas/Otel-Rezervasyon-Projesi/assets/150259943/387549c3-4b1a-4b9d-80c6-c2d8f81c8095)
 
